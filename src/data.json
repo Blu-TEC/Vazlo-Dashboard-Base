@@ -1,0 +1,487 @@
+{
+  "kpis": {
+    "factorPotenciaPromedio": 0.97,
+    "temperaturaRecuperada": "182°C",
+    "ahorroAnualProyectado": "$1,762,800",
+    "estadoRed": "Óptimo"
+  },
+  "telemetriaSemanal": [
+    {
+      "dia": "01 Ene",
+      "factorPotencia": 0.792,
+      "corrienteA": 170.9,
+      "tempHornos": 82.6
+    },
+    {
+      "dia": "08 Ene",
+      "factorPotencia": 0.802,
+      "corrienteA": 167.9,
+      "tempHornos": 93.0
+    },
+    {
+      "dia": "15 Ene",
+      "factorPotencia": 0.824,
+      "corrienteA": 161.9,
+      "tempHornos": 96.2
+    },
+    {
+      "dia": "22 Ene",
+      "factorPotencia": 0.827,
+      "corrienteA": 158.0,
+      "tempHornos": 102.8
+    },
+    {
+      "dia": "29 Ene",
+      "factorPotencia": 0.838,
+      "corrienteA": 154.8,
+      "tempHornos": 108.2
+    },
+    {
+      "dia": "05 Feb",
+      "factorPotencia": 0.855,
+      "corrienteA": 150.8,
+      "tempHornos": 113.4
+    },
+    {
+      "dia": "12 Feb",
+      "factorPotencia": 0.869,
+      "corrienteA": 148.5,
+      "tempHornos": 117.1
+    },
+    {
+      "dia": "19 Feb",
+      "factorPotencia": 0.876,
+      "corrienteA": 142.1,
+      "tempHornos": 123.2
+    },
+    {
+      "dia": "26 Feb",
+      "factorPotencia": 0.879,
+      "corrienteA": 141.4,
+      "tempHornos": 124.3
+    },
+    {
+      "dia": "05 Mar",
+      "factorPotencia": 0.858,
+      "corrienteA": 146.8,
+      "tempHornos": 124.0
+    },
+    {
+      "dia": "12 Mar",
+      "factorPotencia": 0.853,
+      "corrienteA": 150.1,
+      "tempHornos": 119.7
+    },
+    {
+      "dia": "19 Mar",
+      "factorPotencia": 0.864,
+      "corrienteA": 147.2,
+      "tempHornos": 121.9
+    },
+    {
+      "dia": "26 Mar",
+      "factorPotencia": 0.89,
+      "corrienteA": 140.2,
+      "tempHornos": 134.0
+    },
+    {
+      "dia": "02 Abr",
+      "factorPotencia": 0.909,
+      "corrienteA": 129.0,
+      "tempHornos": 143.4
+    },
+    {
+      "dia": "09 Abr",
+      "factorPotencia": 0.917,
+      "corrienteA": 125.4,
+      "tempHornos": 146.4
+    },
+    {
+      "dia": "16 Abr",
+      "factorPotencia": 0.921,
+      "corrienteA": 124.7,
+      "tempHornos": 148.0
+    },
+    {
+      "dia": "23 Abr",
+      "factorPotencia": 0.93,
+      "corrienteA": 123.6,
+      "tempHornos": 151.6
+    },
+    {
+      "dia": "30 Abr",
+      "factorPotencia": 0.929,
+      "corrienteA": 124.9,
+      "tempHornos": 153.3
+    },
+    {
+      "dia": "07 May",
+      "factorPotencia": 0.922,
+      "corrienteA": 124.5,
+      "tempHornos": 151.3
+    },
+    {
+      "dia": "14 May",
+      "factorPotencia": 0.906,
+      "corrienteA": 130.4,
+      "tempHornos": 143.8
+    },
+    {
+      "dia": "21 May",
+      "factorPotencia": 0.903,
+      "corrienteA": 132.8,
+      "tempHornos": 144.8
+    },
+    {
+      "dia": "28 May",
+      "factorPotencia": 0.917,
+      "corrienteA": 128.5,
+      "tempHornos": 152.6
+    },
+    {
+      "dia": "04 Jun",
+      "factorPotencia": 0.933,
+      "corrienteA": 119.5,
+      "tempHornos": 156.8
+    },
+    {
+      "dia": "11 Jun",
+      "factorPotencia": 0.947,
+      "corrienteA": 118.3,
+      "tempHornos": 163.1
+    },
+    {
+      "dia": "18 Jun",
+      "factorPotencia": 0.956,
+      "corrienteA": 116.1,
+      "tempHornos": 164.9
+    },
+    {
+      "dia": "25 Jun",
+      "factorPotencia": 0.952,
+      "corrienteA": 114.3,
+      "tempHornos": 169.1
+    },
+    {
+      "dia": "02 Jul",
+      "factorPotencia": 0.948,
+      "corrienteA": 115.5,
+      "tempHornos": 165.0
+    },
+    {
+      "dia": "09 Jul",
+      "factorPotencia": 0.936,
+      "corrienteA": 120.7,
+      "tempHornos": 162.2
+    },
+    {
+      "dia": "16 Jul",
+      "factorPotencia": 0.923,
+      "corrienteA": 125.2,
+      "tempHornos": 155.2
+    },
+    {
+      "dia": "23 Jul",
+      "factorPotencia": 0.931,
+      "corrienteA": 118.3,
+      "tempHornos": 157.5
+    },
+    {
+      "dia": "30 Jul",
+      "factorPotencia": 0.945,
+      "corrienteA": 116.3,
+      "tempHornos": 168.0
+    },
+    {
+      "dia": "06 Ago",
+      "factorPotencia": 0.961,
+      "corrienteA": 110.4,
+      "tempHornos": 170.5
+    },
+    {
+      "dia": "13 Ago",
+      "factorPotencia": 0.969,
+      "corrienteA": 112.9,
+      "tempHornos": 173.5
+    },
+    {
+      "dia": "20 Ago",
+      "factorPotencia": 0.969,
+      "corrienteA": 111.2,
+      "tempHornos": 171.6
+    },
+    {
+      "dia": "27 Ago",
+      "factorPotencia": 0.967,
+      "corrienteA": 108.5,
+      "tempHornos": 174.9
+    },
+    {
+      "dia": "03 Sep",
+      "factorPotencia": 0.968,
+      "corrienteA": 109.0,
+      "tempHornos": 173.3
+    },
+    {
+      "dia": "09 Sep",
+      "factorPotencia": 0.97,
+      "corrienteA": 105.0,
+      "tempHornos": 182.0
+    }
+  ],
+  "vibracionMaquinaria": [
+    {
+      "maquina": "Torno CNC 1",
+      "ejeX": 3.4,
+      "ejeY": 3.8,
+      "ejeZ": 4.5
+    },
+    {
+      "maquina": "Prensa Estampado",
+      "ejeX": 4.1,
+      "ejeY": 4.5,
+      "ejeZ": 5.0
+    },
+    {
+      "maquina": "Celda Soldadura",
+      "ejeX": 1.2,
+      "ejeY": 1.5,
+      "ejeZ": 1.8
+    }
+  ],
+  "vibracionHistorica": {
+    "Torno CNC 1": [
+      {
+        "fecha": "01 Ene",
+        "ejeX": 4.7,
+        "ejeY": 5.14,
+        "ejeZ": 6.07
+      },
+      {
+        "fecha": "01 Feb",
+        "ejeX": 3.63,
+        "ejeY": 3.96,
+        "ejeZ": 4.63
+      },
+      {
+        "fecha": "01 Mar",
+        "ejeX": 3.31,
+        "ejeY": 3.47,
+        "ejeZ": 3.98
+      },
+      {
+        "fecha": "01 Abr",
+        "ejeX": 3.26,
+        "ejeY": 3.45,
+        "ejeZ": 3.81
+      },
+      {
+        "fecha": "01 May",
+        "ejeX": 2.97,
+        "ejeY": 3.12,
+        "ejeZ": 3.56
+      },
+      {
+        "fecha": "01 Jun",
+        "ejeX": 2.99,
+        "ejeY": 3.38,
+        "ejeZ": 3.65
+      },
+      {
+        "fecha": "01 Jul",
+        "ejeX": 3.04,
+        "ejeY": 3.29,
+        "ejeZ": 3.89
+      },
+      {
+        "fecha": "01 Ago",
+        "ejeX": 3.13,
+        "ejeY": 3.68,
+        "ejeZ": 4.06
+      },
+      {
+        "fecha": "01 Sep",
+        "ejeX": 3.17,
+        "ejeY": 3.53,
+        "ejeZ": 4.08
+      },
+      {
+        "fecha": "09 Sep",
+        "ejeX": 3.4,
+        "ejeY": 3.8,
+        "ejeZ": 4.5
+      }
+    ],
+    "Prensa Estampado": [
+      {
+        "fecha": "01 Ene",
+        "ejeX": 5.43,
+        "ejeY": 5.93,
+        "ejeZ": 6.59
+      },
+      {
+        "fecha": "01 Feb",
+        "ejeX": 4.37,
+        "ejeY": 4.53,
+        "ejeZ": 4.91
+      },
+      {
+        "fecha": "01 Mar",
+        "ejeX": 3.76,
+        "ejeY": 4.11,
+        "ejeZ": 4.48
+      },
+      {
+        "fecha": "01 Abr",
+        "ejeX": 3.74,
+        "ejeY": 4.04,
+        "ejeZ": 4.49
+      },
+      {
+        "fecha": "01 May",
+        "ejeX": 3.38,
+        "ejeY": 3.8,
+        "ejeZ": 4.08
+      },
+      {
+        "fecha": "01 Jun",
+        "ejeX": 3.82,
+        "ejeY": 3.87,
+        "ejeZ": 4.15
+      },
+      {
+        "fecha": "01 Jul",
+        "ejeX": 3.79,
+        "ejeY": 4.08,
+        "ejeZ": 4.32
+      },
+      {
+        "fecha": "01 Ago",
+        "ejeX": 3.84,
+        "ejeY": 4.41,
+        "ejeZ": 4.52
+      },
+      {
+        "fecha": "01 Sep",
+        "ejeX": 4.22,
+        "ejeY": 4.4,
+        "ejeZ": 4.5
+      },
+      {
+        "fecha": "09 Sep",
+        "ejeX": 4.1,
+        "ejeY": 4.5,
+        "ejeZ": 5.0
+      }
+    ],
+    "Celda Soldadura": [
+      {
+        "fecha": "01 Ene",
+        "ejeX": 2.07,
+        "ejeY": 2.5,
+        "ejeZ": 2.81
+      },
+      {
+        "fecha": "01 Feb",
+        "ejeX": 1.51,
+        "ejeY": 1.8,
+        "ejeZ": 2.18
+      },
+      {
+        "fecha": "01 Mar",
+        "ejeX": 1.21,
+        "ejeY": 1.57,
+        "ejeZ": 1.98
+      },
+      {
+        "fecha": "01 Abr",
+        "ejeX": 1.16,
+        "ejeY": 1.53,
+        "ejeZ": 1.73
+      },
+      {
+        "fecha": "01 May",
+        "ejeX": 1.1,
+        "ejeY": 1.46,
+        "ejeZ": 1.72
+      },
+      {
+        "fecha": "01 Jun",
+        "ejeX": 1.14,
+        "ejeY": 1.42,
+        "ejeZ": 1.56
+      },
+      {
+        "fecha": "01 Jul",
+        "ejeX": 1.09,
+        "ejeY": 1.47,
+        "ejeZ": 1.65
+      },
+      {
+        "fecha": "01 Ago",
+        "ejeX": 1.14,
+        "ejeY": 1.43,
+        "ejeZ": 1.55
+      },
+      {
+        "fecha": "01 Sep",
+        "ejeX": 1.16,
+        "ejeY": 1.39,
+        "ejeZ": 1.71
+      },
+      {
+        "fecha": "09 Sep",
+        "ejeX": 1.2,
+        "ejeY": 1.5,
+        "ejeZ": 1.8
+      }
+    ]
+  },
+  "eventosMantenimiento": [
+    {
+      "fecha": "01 Ene",
+      "tipo": "instalacion",
+      "descripcion": "Instalación y puesta en marcha de todos los sensores SITMI en planta VAZLO. Lecturas iniciales inestables por calibración pendiente."
+    },
+    {
+      "fecha": "18 Ene",
+      "tipo": "calibracion",
+      "descripcion": "Calibración fina de sensores de corriente y factor de potencia tras primeras dos semanas de operación."
+    },
+    {
+      "fecha": "15 Mar",
+      "tipo": "incidencia",
+      "descripcion": "Recaída operativa: fluctuaciones en la carga eléctrica de la línea de estampado provocan caída temporal del factor de potencia y del sistema ORC."
+    },
+    {
+      "fecha": "22 Mar",
+      "tipo": "correctivo",
+      "descripcion": "Ajuste de banco de capacitores y balanceo de cargas; el factor de potencia retoma tendencia de mejora."
+    },
+    {
+      "fecha": "20 May",
+      "tipo": "incidencia",
+      "descripcion": "Sobrecarga puntual por incremento de producción provoca nueva caída de eficiencia y aumento de corriente consumida."
+    },
+    {
+      "fecha": "28 May",
+      "tipo": "correctivo",
+      "descripcion": "Redistribución de cargas entre líneas y mantenimiento preventivo en transformador principal."
+    },
+    {
+      "fecha": "18 Jul",
+      "tipo": "incidencia",
+      "descripcion": "Ola de calor eleva temperatura ambiente en planta, afecta disipación térmica del sistema ORC y reduce ligeramente el factor de potencia."
+    },
+    {
+      "fecha": "26 Jul",
+      "tipo": "correctivo",
+      "descripcion": "Mantenimiento del sistema de recuperación térmica (ORC) y limpieza de intercambiadores; recuperación de eficiencia térmica."
+    },
+    {
+      "fecha": "09 Sep",
+      "tipo": "estado_actual",
+      "descripcion": "Planta operando en niveles óptimos: factor de potencia en 0.97, temperatura ORC recuperada en 182°C. Vibración en Prensa Estampado y Torno CNC 1 en tendencia ascendente, seguimiento recomendado."
+    }
+  ]
+}
